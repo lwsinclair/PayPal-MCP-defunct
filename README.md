@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/arbuthnot-eth-paypal-mcp-defunct-badge.png)](https://mseep.ai/app/arbuthnot-eth-paypal-mcp-defunct)
+
 # PayPal MCP Server
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
